@@ -1,7 +1,8 @@
 # Dorila
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3.
-<div class="contentRead" style="width:50rem;height:50rem">
+<h2 align="center"; color:"orange">This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3.</h2>
+
+<div width="50rem"; height:"50rem">
 <img src="src/app/images/terry-unsplash.jpg" style="opacity:0.7"/>
 </div>
 
@@ -9,11 +10,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href= "https://www.linkedin.com/in/bayrem-gharssellaoui/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
-  <a href= "https://medium.com/@garssallaoui.bayrem"><img src="https://img.icons8.com/dusk/48/000000/medium-new.png"/></a>
-  <a href= "https://twitter.com/kaizoku_ouh"><img src="https://img.icons8.com/dusk/48/000000/twitter.png"/></a>
-  <a href= "https://signal.org"><img src="https://img.icons8.com/color/48/000000/signal-app.png"/></a>
-  <a href= "https://www.youtube.com/channel/UCj_aGuryykHGnmFXHa5kzLQ"><img src="https://img.icons8.com/dusk/48/000000/youtube--v2.png"/></a>
+  <a href= "https://www.linkedin.com/in/bayrem-gharssellaoui/"><img src="src/app/images/terry-unsplash.jpg"/></a>
+  <a href= "https://medium.com/@garssallaoui.bayrem"><img src="src/app/images/terry-unsplash.jpg"/></a>
+  <a href= "https://twitter.com/kaizoku_ouh"><img src="src/app/images/terry-unsplash.jpg"/></a>
+  <a href= "https://signal.org"><img src="src/app/images/terry-unsplash.jpg"/></a>
+  <a href= "https://www.youtube.com/channel/UCMJ_rJw9qu6QkxepYhEt2lg"><img src="https://img.icons8.com/dusk/48/000000/youtube--v2.png"/></a>
 </p>
 
 <p>
@@ -31,5 +32,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
   </p>
 </p>
 <br/><br/>
-ahora sigo
+<h2 color:"green"; font-size:"bold"> ahora sigo </h2>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
