@@ -1,41 +1,75 @@
 # <p align="center" >I´m Dorila !</p>
+<h3 align="center" color:"orange" border:"2px solid grey">This project was generated with 🎶</h3>
+<hr>
+<img src="src/app/images/terry-unsplash.jpg" />      
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=480&height=80">
+<hr>
 
-  <h3 align="center" color:"orange" border:"2px solid grey">This project was generated with  
-  <hr>
-  <img src="src/app/images/terry-unsplash.jpg" />
-
-**About me**![image](https://github.com/DorilaDevOps/DorilaDevOps/assets/140438685/67e3d1e2-2d0a-4ef6-b902-319dd33e4c27)
-
-<p align="center" color="red"><img src="https://raw.githubusercontent.com/kaizoku-oh/kaizoku-oh/master/static/myintro.gif"/></p>
-
-  
-**Front-End Development**: 
-
+***My Favorite Tools as a Developer:***
+    
 [![My Skills](https://skillicons.dev/icons?i=angular,html,css,bootstrap,tailwind,materialui&theme=light)](https://skillicons.dev)
-
-  <br>  <hr>
-  
-**Back-End and Tools**: 
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,pnpm,apollo,graphql,nextjs&theme=light)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,aws,firebase,heroku,github&theme=light)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=git,kali,netlify,tensorflow,ai&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,kali,netlify,tensorflow,ai,stackoverflow&theme=light)](https://skillicons.dev)
 
- 
-  <hr>
+<hr>
 
-  **It occurs to me that you contact me** 
+ ***It occurs to me that you contact me:***
 
 <a>![image](https://github.com/DorilaDevOps/DorilaDevOps/assets/140438685/a653415f-8937-4db6-9481-520651a8c51b)</a>
 <a>![image](https://github.com/DorilaDevOps/DorilaDevOps/assets/140438685/79e4b5d6-9efc-4ccf-9832-6cc9329527b3)</a>
 <a>![image](https://github.com/DorilaDevOps/DorilaDevOps/assets/140438685/87bae488-68c3-4a07-ba74-2e175dc57ba5)</a>
 
-<hr>
+    asadodevelopers@gmail.com 
 
-  ## Se me ocurre que sigas en
+<hr>
+<p align="right">
   
+## prueba de GitHub Stars https://img.shields.io/github/commits-since/{username}/{repo-name}/{version}.svg
+</p>
+<p align="center">
+    <a href="https://img.shields.io/github/commits-since/{DorilaDevOps}/{DorilaDevOps}/{version}.svg">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shahadat Hossain's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HridoyHazard&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+  
+#### Licenced MIT
+  <img src="https://img.shields.io/github/license/DorilaDevOps/DorilaDevOps.svg" align="right"/>
+    <br>
+	 <h4> src="https://img.shields.io/github/license/{username}/{repo-name}.svg</h4>
+  
+
+***COMMITS*** 
+  <img src="https://img.shields.io/github/commits-since/DorilaDevOps/DorilaDevOps/0.0.1.svg" align="left"/>       
+  <br>
+  <h4>https://img.shields.io/github/commits-since/{username}/{repo-name}/{version}.svg</h4>
+ 
+  
+<table border="0" align="center">
+<tr border="0">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=DHANOLA&theme=cobalt&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mark123jesper&theme=dark&hide_border=true" />
+
+</td>
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DHANOLA&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<hr>
 
 [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev)
 
