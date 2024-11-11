@@ -54,6 +54,9 @@
   <img src="https://img.shields.io/github/commits-since/DorilaDevOps/DorilaDevOps/0.0.1.svg" align="left"/>       
   <br>
   <h4>https://img.shields.io/github/commits-since/{username}/{repo-name}/{version}.svg</h4>
+  <br>
+ <img alt="GitHub commit status" src="https://img.shields.io/github/checks-status/DorilaDevOps/DorilaDevOps/6c5b601a0272d2833963f3012adca98344576ef9">
+
  
   
 <table border="0" align="center">
