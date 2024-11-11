@@ -45,6 +45,8 @@
   
 
 ***COMMITS*** 
+<h3>https://flat.badgen.net/docker/stars/library/mongo?icon=docker&label=stars
+</h3>
   <img src="https://img.shields.io/github/commits-since/DorilaDevOps/DorilaDevOps/0.0.1.svg" align="left"/>       
   <br>
   <h4>https://img.shields.io/github/commits-since/{username}/{repo-name}/{version}.svg</h4>
