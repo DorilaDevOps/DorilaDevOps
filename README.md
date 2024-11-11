@@ -1,4 +1,4 @@
-# <p align="center" >I´m Dorila !</p>
+# <p align="center" style="color:blue">I´m Dorila !</p>
 <h3 align="center" color:"orange" border:"2px solid grey">This project was generated with 🎶</h3>
 <hr>
 <img src="src/app/images/terry-unsplash.jpg" />      
