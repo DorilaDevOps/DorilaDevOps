@@ -37,10 +37,11 @@
     </a>
 </p>
 
-#### Created at 
+#### <hr>
 <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/DorilaDevOps/DorilaDevOps">
  <br>
-	 <h4> src="https://img.shields.io/github/license/DorilaDevOps/DorilaDevOps.svg</h4>
+	<img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/DorilaDevOps/DorilaDevOps/master?style=plastic&labelColor=orange&color=blue">
+
 
 #### Licenced MIT
   <img src="https://img.shields.io/github/license/DorilaDevOps/DorilaDevOps.svg" align="right"/>
@@ -49,11 +50,9 @@
   
 
 ***COMMITS*** 
-<h3>https://flat.badgen.net/docker/stars/library/mongo?icon=docker&label=stars
-</h3>
+
   <img src="https://img.shields.io/github/commits-since/DorilaDevOps/DorilaDevOps/0.0.1.svg" align="left"/>       
   <br>
-  <h4>https://img.shields.io/github/commits-since/{username}/{repo-name}/{version}.svg</h4>
   <br>
  <img alt="GitHub commit status" src="https://img.shields.io/github/checks-status/DorilaDevOps/DorilaDevOps/6c5b601a0272d2833963f3012adca98344576ef9">
 
