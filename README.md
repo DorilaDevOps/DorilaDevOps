@@ -27,18 +27,16 @@
     asadodevelopers@gmail.com 
 
 <hr>
-<p align="right">
-  
-## GitHub Stars
-</p>
+
+<p align="right">  ## GitHub Stars  </p>
+
 <p align="center">
     <a href="https://img.shields.io/github/commits-since/{DorilaDevOps}/{DorilaDevOps}/{version}.svg">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shahadat Hossain's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HridoyHazard&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
-#### <hr>
-<div atyle="diplay:flex">
+<hr>
+<div diplay="flex" background-color="red">
 <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/DorilaDevOps/DorilaDevOps" align="left"/>  
 
 <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/DorilaDevOps/DorilaDevOps/master?style=plastic&labelColor=orange&color=blue" align="center"/>
