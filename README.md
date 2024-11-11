@@ -36,16 +36,16 @@
     </a>
 </p>
 <hr>
-<div diplay="flex" background-color="red">
-<img alt="GitHub Created At" src="https://img.shields.io/github/created-at/DorilaDevOps/DorilaDevOps" align="left"/>  
+***  it´s a maker tea *** 
+ <p align="center">
+<img alt="GitHub Created At" src="https://img.shields.io/github/created-at/DorilaDevOps/DorilaDevOps"/>  
 
-<img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/DorilaDevOps/DorilaDevOps/master?style=plastic&labelColor=orange&color=blue" align="center"/>
+<img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/DorilaDevOps/DorilaDevOps/master?style=plastic&labelColor=orange&color=blue" />
 
-<img src="https://img.shields.io/github/license/DorilaDevOps/DorilaDevOps.svg?style=plastic&labelColor=violet&color=lightblue" align="right"/>  
-</div>
+<img src="https://img.shields.io/github/license/DorilaDevOps/DorilaDevOps.svg?style=plastic&labelColor=violet&color=lightblue"/>  
+</p>
 <br>
-***  it.s *** 
-<br>
+
   ***<hr>***
 
   
