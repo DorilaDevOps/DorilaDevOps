@@ -6,6 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=480&height=80">
 <hr>
 
+<p align="center>
 ***My Favorite Tools as a Developer:***
     
 [![My Skills](https://skillicons.dev/icons?i=angular,html,css,bootstrap,tailwind,materialui&theme=light)](https://skillicons.dev)
@@ -24,7 +25,10 @@
 <a>![image](https://github.com/DorilaDevOps/DorilaDevOps/assets/140438685/79e4b5d6-9efc-4ccf-9832-6cc9329527b3)</a>
 <a>![image](https://github.com/DorilaDevOps/DorilaDevOps/assets/140438685/87bae488-68c3-4a07-ba74-2e175dc57ba5)</a>
 
-    asadodevelopers@gmail.com 
+<a href="asadodevelopers@gmail.com"> asadodevelopers@gmail.com </a>
+     
+    
+</p>
 
 <hr>
 
