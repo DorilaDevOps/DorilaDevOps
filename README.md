@@ -8,7 +8,7 @@
 
 
 ***My Favorite Tools as a Developer:***
-    <p align="center">
+    <p>
 [![My Skills](https://skillicons.dev/icons?i=angular,html,css,bootstrap,tailwind,materialui&theme=light)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,pnpm,apollo,graphql,nextjs&theme=light)](https://skillicons.dev)
