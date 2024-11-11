@@ -3,7 +3,7 @@
 <hr>
 <img src="src/app/images/terry-unsplash.jpg" />      
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=480&height=80&color=orange">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=480&height=80">
 <hr>
 
 ***My Favorite Tools as a Developer:***
@@ -12,7 +12,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,pnpm,apollo,graphql,nextjs&theme=light)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,aws,firebase,heroku,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,aws,firebase,heroku,discord,github&theme=light)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=git,kali,netlify,tensorflow,ai,stackoverflow&theme=light)](https://skillicons.dev)
 
