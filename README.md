@@ -6,9 +6,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=480&height=80">
 <hr>
 
-<p align="center dir="auto">
+
 ***My Favorite Tools as a Developer:***
-    
+    <p align="center dir="auto">
 [![My Skills](https://skillicons.dev/icons?i=angular,html,css,bootstrap,tailwind,materialui&theme=light)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,pnpm,apollo,graphql,nextjs&theme=light)](https://skillicons.dev)
