@@ -44,7 +44,7 @@
 <img src="https://img.shields.io/github/license/DorilaDevOps/DorilaDevOps.svg?style=plastic&labelColor=violet&color=lightblue" align="right"/>  
 </div>
 <br>
-***COMMITS*** 
+***  it.s *** 
 <br>
   ***<hr>***
 
@@ -78,7 +78,7 @@
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kaizoku-oh" />
   </a>
 </p>
-  <p>
+  <p align="center">
     <img src="https://views.whatilearened.today/views/github/kaizoku-oh/views.svg"/>
     <a href="https://github.com/DorilaDevOps/DorilaDevOps"><img src="https://img.shields.io/github/followers/kaizoku-oh?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
     <a href="https://github.com/DorilaDevOps?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103?color=%234CC61E&label=FenixNoma"/></a>
