@@ -37,21 +37,18 @@
     </a>
 </p>
 
-
 #### <hr>
-<img alt="GitHub Created At" src="https://img.shields.io/github/created-at/DorilaDevOps/DorilaDevOps?style=plastic" align="left"/>  
- <br>
-	<img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/DorilaDevOps/DorilaDevOps/master?style=plastic&labelColor=orange&color=blue" align="center"/>
 
-  <img src="https://img.shields.io/github/license/DorilaDevOps/DorilaDevOps.svg?style=plastic&labelColor=orange&color=blue" align="right"/>  
+<img alt="GitHub Created At" src="https://img.shields.io/github/created-at/DorilaDevOps/DorilaDevOps" align="left"/>  
 
+<img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/DorilaDevOps/DorilaDevOps/master?style=plastic&labelColor=orange&color=blue" align="center"/>
+
+<img src="https://img.shields.io/github/license/DorilaDevOps/DorilaDevOps.svg?style=plastic&labelColor=violet&color=lightblue" align="right"/>  
+
+<br>
 ***COMMITS*** 
 <br>
-<img alt="GitHub commit status" src="https://img.shields.io/github/checks-status/DorilaDevOps/pasarelaDePagos/master?style=flat&logoColor=violet&labelColor=gray&color=lightblue">
-
-
-  <img src="https://img.shields.io/github/commits-since/DorilaDevOps/DorilaDevOps/0.0.1.svg" align="left"/>       
-  ***<br>***
+  ***<hr>***
 
   
 <table border="0" align="center">
