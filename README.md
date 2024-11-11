@@ -1,5 +1,5 @@
-# <p align="center" style="color:blue">I´m Dorila !</p>
-<h3 align="center" color:"orange" border:"2px solid grey">This project was generated with 🎶</h3>
+# <p align="center" color="blue">I´m Dorila !</p>
+<h3 align="center" color="orange" border="2px solid grey">This project was generated with 🎶</h3>
 <hr>
 <img src="src/app/images/terry-unsplash.jpg" />      
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
