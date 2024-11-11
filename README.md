@@ -26,13 +26,14 @@
 <a href="https://youtu.be/nD_TNB39G_4" target="_blank">![image](https://github.com/DorilaDevOps/DorilaDevOps/assets/140438685/a653415f-8937-4db6-9481-520651a8c51b)</a>
 <a href="https://www.instagram.com/andres_y_paulina/" target="_blank" >![image](https://github.com/DorilaDevOps/DorilaDevOps/assets/140438685/79e4b5d6-9efc-4ccf-9832-6cc9329527b3)</a>
 <a href="" >![image](https://github.com/DorilaDevOps/DorilaDevOps/assets/140438685/87bae488-68c3-4a07-ba74-2e175dc57ba5)</a>
-<a href="https://linktr.ee/and3dandelion?fbclid=PAZXh0bgNhZW0CMTEAAabfdQPsaJw-oaYyB62QkM7fMtrWw8BCgdGjR-9FtRJKcfmtGvOg7GVRrtk_aem_wJjMwJ3GfzeImkEtYSAhyA" target="_blank">![image](https://github.com/DorilaDevOps/DorilaDevOps/assets/140438685/87bae488-68c3-4a07-ba74-2e175dc57ba5)</a>
+<a href="" >![image](https://github.com/tandpfun/skill-icons/blob/main/icons/DevTo-Light.svg)</a>
+<a href="https://linktr.ee/and3dandelion?fbclid=PAZXh0bgNhZW0CMTEAAabfdQPsaJw-oaYyB62QkM7fMtrWw8BCgdGjR-9FtRJKcfmtGvOg7GVRrtk_aem_wJjMwJ3GfzeImkEtYSAhyA" target="_blank">![image](https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg) and3dandelion</a>
 
 <a href="asadodevelopers@gmail.com" target="_blank"> asadodevelopers@gmail.com </a>     
 
 <hr>
 
-<p align="right">  ## GitHub Stars  </p>
+## GitHub Stars  
 
 <p align="center">
     <a href="https://img.shields.io/github/commits-since/{DorilaDevOps}/{DorilaDevOps}/{version}.svg">
@@ -40,7 +41,8 @@
     </a>
 </p>
 <hr>
-***  it´s a maker tea *** 
+***it´s a maker tea*** 
+<br>
  <p align="center">
 <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/DorilaDevOps/DorilaDevOps"/>  
 
