@@ -47,7 +47,8 @@
   <img src="https://img.shields.io/github/license/DorilaDevOps/DorilaDevOps.svg" align="right"/>
     <br>
 	 <h4> src="https://img.shields.io/github/license/DorilaDevOps/DorilaDevOps.svg</h4>
-  
+  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/DorilaDevOps/DorilaDevOps?labelColor=yellowgreen&color=yellow">
+
 
 ***COMMITS*** 
 <img alt="GitHub commit status" src="https://img.shields.io/github/checks-status/DorilaDevOps/DorilaDevOps/master?style=flat&logoColor=violet&labelColor=gray&color=lightblue"align="left"/>  
