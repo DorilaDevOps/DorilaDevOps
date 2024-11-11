@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=480&height=80">
 <hr>
 
-<p align="center>
+<p align="center dir="auto">
 ***My Favorite Tools as a Developer:***
     
 [![My Skills](https://skillicons.dev/icons?i=angular,html,css,bootstrap,tailwind,materialui&theme=light)](https://skillicons.dev)
@@ -17,17 +17,17 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,kali,netlify,tensorflow,ai,stackoverflow&theme=light)](https://skillicons.dev)
 
+    
+</p>
 <hr>
 
  ***It occurs to me that you contact me:***
-<a href="https://youtu.be/nD_TNB39G_4">![image](https://github.com/DorilaDevOps/DorilaDevOps/assets/140438685/a653415f-8937-4db6-9481-520651a8c51b)</a>
-<a href="" >![image](https://github.com/DorilaDevOps/DorilaDevOps/assets/140438685/79e4b5d6-9efc-4ccf-9832-6cc9329527b3)</a>
+<a href="https://youtu.be/nD_TNB39G_4" target="_blank">![image](https://github.com/DorilaDevOps/DorilaDevOps/assets/140438685/a653415f-8937-4db6-9481-520651a8c51b)</a>
+<a href="https://www.instagram.com/andres_y_paulina/" target="_blank" >![image](https://github.com/DorilaDevOps/DorilaDevOps/assets/140438685/79e4b5d6-9efc-4ccf-9832-6cc9329527b3)</a>
 <a href="" >![image](https://github.com/DorilaDevOps/DorilaDevOps/assets/140438685/87bae488-68c3-4a07-ba74-2e175dc57ba5)</a>
+<a href="https://linktr.ee/and3dandelion?fbclid=PAZXh0bgNhZW0CMTEAAabfdQPsaJw-oaYyB62QkM7fMtrWw8BCgdGjR-9FtRJKcfmtGvOg7GVRrtk_aem_wJjMwJ3GfzeImkEtYSAhyA" target="_blank">![image](https://github.com/DorilaDevOps/DorilaDevOps/assets/140438685/87bae488-68c3-4a07-ba74-2e175dc57ba5)</a>
 
-<a href="asadodevelopers@gmail.com"> asadodevelopers@gmail.com </a>
-     
-    
-</p>
+<a href="asadodevelopers@gmail.com" target="_blank"> asadodevelopers@gmail.com </a>     
 
 <hr>
 
