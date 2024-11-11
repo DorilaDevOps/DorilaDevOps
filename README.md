@@ -29,7 +29,7 @@
 <hr>
 <p align="right">
   
-## prueba de GitHub Stars https://img.shields.io/github/commits-since/{username}/{repo-name}/{version}.svg
+## GitHub Stars
 </p>
 <p align="center">
     <a href="https://img.shields.io/github/commits-since/{DorilaDevOps}/{DorilaDevOps}/{version}.svg">
@@ -37,31 +37,22 @@
     </a>
 </p>
 
+
 #### <hr>
-<img alt="GitHub Created At" src="https://img.shields.io/github/created-at/DorilaDevOps/DorilaDevOps">
+<img alt="GitHub Created At" src="https://img.shields.io/github/created-at/DorilaDevOps/DorilaDevOps" align="left"/>  
  <br>
-	<img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/DorilaDevOps/DorilaDevOps/master?style=plastic&labelColor=orange&color=blue">
+	<img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/DorilaDevOps/DorilaDevOps/master?style=plastic&labelColor=orange&color=blue align="center"/>
 
-
-#### Licenced MIT
-  <img src="https://img.shields.io/github/license/DorilaDevOps/DorilaDevOps.svg" align="right"/>
-    <br>
-	 <h4> src="https://img.shields.io/github/license/DorilaDevOps/DorilaDevOps.svg</h4>
-  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/DorilaDevOps/DorilaDevOps?labelColor=yellowgreen&color=yellow">
-
+  <img src="https://img.shields.io/github/license/DorilaDevOps/DorilaDevOps.svg" align="right"/>  
 
 ***COMMITS*** 
-<img alt="GitHub commit status" src="https://img.shields.io/github/checks-status/DorilaDevOps/DorilaDevOps/master?style=flat&logoColor=violet&labelColor=gray&color=lightblue"align="left"/>  
 <br>
 <img alt="GitHub commit status" src="https://img.shields.io/github/checks-status/DorilaDevOps/pasarelaDePagos/master?style=flat&logoColor=violet&labelColor=gray&color=lightblue">
 
 
   <img src="https://img.shields.io/github/commits-since/DorilaDevOps/DorilaDevOps/0.0.1.svg" align="left"/>       
-  <br>
-  <br>
- <img alt="GitHub commit status" src="https://img.shields.io/github/checks-status/DorilaDevOps/DorilaDevOps/6c5b601a0272d2833963f3012adca98344576ef9">
+  ***<br>***
 
- 
   
 <table border="0" align="center">
 <tr border="0">
