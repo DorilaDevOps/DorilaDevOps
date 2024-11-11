@@ -50,6 +50,7 @@
   
 
 ***COMMITS*** 
+<img alt="GitHub commit status" src="https://img.shields.io/github/checks-status/DorilaDevOps/DorilaDevOps/master?style=flat&logoColor=violet&labelColor=gray&color=lightblue"align="left"/>       
 
   <img src="https://img.shields.io/github/commits-since/DorilaDevOps/DorilaDevOps/0.0.1.svg" align="left"/>       
   <br>
