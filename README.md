@@ -38,13 +38,13 @@
 </p>
 
 #### <hr>
-
+<div atyle="diplay:flex">
 <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/DorilaDevOps/DorilaDevOps" align="left"/>  
 
 <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/DorilaDevOps/DorilaDevOps/master?style=plastic&labelColor=orange&color=blue" align="center"/>
 
 <img src="https://img.shields.io/github/license/DorilaDevOps/DorilaDevOps.svg?style=plastic&labelColor=violet&color=lightblue" align="right"/>  
-
+</div>
 <br>
 ***COMMITS*** 
 <br>
