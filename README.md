@@ -20,10 +20,9 @@
 <hr>
 
  ***It occurs to me that you contact me:***
-
-<a>![image](https://github.com/DorilaDevOps/DorilaDevOps/assets/140438685/a653415f-8937-4db6-9481-520651a8c51b)</a>
-<a>![image](https://github.com/DorilaDevOps/DorilaDevOps/assets/140438685/79e4b5d6-9efc-4ccf-9832-6cc9329527b3)</a>
-<a>![image](https://github.com/DorilaDevOps/DorilaDevOps/assets/140438685/87bae488-68c3-4a07-ba74-2e175dc57ba5)</a>
+<a href="https://studio.youtube.com/video/nD_TNB39G_4/edit">![image](https://github.com/DorilaDevOps/DorilaDevOps/assets/140438685/a653415f-8937-4db6-9481-520651a8c51b)</a>
+<a href="" >![image](https://github.com/DorilaDevOps/DorilaDevOps/assets/140438685/79e4b5d6-9efc-4ccf-9832-6cc9329527b3)</a>
+<a href="" >![image](https://github.com/DorilaDevOps/DorilaDevOps/assets/140438685/87bae488-68c3-4a07-ba74-2e175dc57ba5)</a>
 
 <a href="asadodevelopers@gmail.com"> asadodevelopers@gmail.com </a>
      
