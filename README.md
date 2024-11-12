@@ -33,9 +33,8 @@
 <a href="https://discord.com/channels/@me" target="_blank" title="Discord">![image](https://icons8.com/icon/61604/discord) </a>
 <a href="https://discord.com/channels/@me" target="_blank" title="Discord">![image](https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg) </a>
 
-<a href="https://icons8.com/icon/20633/curtain" target="_blank">Subir persiana</a> 
-
-<a href="https://icons8.com" target="_blank">Icons8 ![image]</a>
+<a href="https://icons8.com/icon/20633/curtain" target="_blank">Subir persiana</a> ![image](
+<a target="_blank" href="https://icons8.com">Icons8</a>
 
 <a target="_blank" href="https://icons8.com/icon/19294/source-code">Dev</a> icono de <a target="_blank" href="https://icons8.com">Icons8</a>
 
@@ -44,7 +43,18 @@
 
 <a target="_blank" href="https://icons8.com/icon/19294/source-code">Dev</a> icono de <a target="_blank" href="https://icons8.com">Icons8</a>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+AvidCoder!;I'm+a+learning+developer...;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
+<h3> Here's some fun facts about me: </h3>
+<br />
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Shwetang550/count.svg" />
+</p>
+
+ <a href="https://linkedin.com/in/ujjwalsharma01">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" />
+  </a>&nbsp;&nbsp;&nbsp;
 <hr>
 
 ## GitHub Stars  
