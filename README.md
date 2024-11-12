@@ -16,7 +16,6 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,aws,firebase,heroku,github&theme=light)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=git,kali,netlify,tensorflow,ai,stackoverflow&theme=light)](https://skillicons.dev)
-
     
 </p>
 <hr>
@@ -27,45 +26,29 @@
 <a href="https://www.instagram.com/andres_y_paulina/" target="_blank" title="instagram">![image](https://github.com/DorilaDevOps/DorilaDevOps/assets/140438685/79e4b5d6-9efc-4ccf-9832-6cc9329527b3)</a>
 <a href="https://www.linkedin.com/in/andres-arias-dev/" target="_blank" title="linkedin">![image](https://github.com/DorilaDevOps/DorilaDevOps/assets/140438685/87bae488-68c3-4a07-ba74-2e175dc57ba5)</a>
 
-<a href="https://linktr.ee/and3dandelion" target="_blank" title="Lintree">![image](https://assets.production.linktr.ee/profiles/_next/static/logo-assets/favicon.ico))</a>
-<a href="https://linktr.ee/and3dandelion" target="_blank" title="Lintree">![image](https://assets.production.linktr.ee/profiles/_next/static/logo-assets/favicon.ico))</a>
+<a href="https://linktr.ee/and3dandelion" target="_blank" title="Lintree">![image](https://assets.production.linktr.ee/profiles/_next/static/logo-assets/favicon.ico){width=50 height=50}</a>
+<a href="https://linktr.ee/and3dandelion" target="_blank" title="Lintree">![image](https://assets.production.linktr.ee/profiles/_next/static/logo-assets/favicon.ico)</a>
 
 <a href="https://discord.com/channels/@me" target="_blank" title="Discord">![image](https://icons8.com/icon/61604/discord) </a>
 <a href="https://discord.com/channels/@me" target="_blank" title="Discord">![image](https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg) </a>
-
-<a href="https://icons8.com/icon/20633/curtain" target="_blank">Subir persiana</a> ![image](
-<a target="_blank" href="https://icons8.com">Icons8</a>
-
-<a target="_blank" href="https://icons8.com/icon/19294/source-code">Dev</a> icono de <a target="_blank" href="https://icons8.com">Icons8</a>
-
-<a href="asadodevelopers@gmail.com" target="_blank" title="mail">![image](https://github.com/DorilaDevOps/DorilaDevOps/assets/140438685/87bae488-68c3-4a07-ba74-2e175dc57ba5)</a>     
+<hr> 
 ![image](https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg)
 
 <a target="_blank" href="https://icons8.com/icon/19294/source-code">Dev</a> icono de <a target="_blank" href="https://icons8.com">Icons8</a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+AvidCoder!;I'm+a+learning+developer...;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
-<h3> Here's some fun facts about me: </h3>
+<h3 align="center"> Here's some fun facts about me: </h3>
+
 <br />
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Shwetang550/count.svg" />
-  <br>
-  https://img.shields.io/github/watchers/DorilaDevOps/DorilaDevOps?logoColor=red&logoSize=12px&labelColor=yellow&color=violet
-  <br>
-  ![GitHub watchers](https://img.shields.io/github/watchers/DorilaDevOps/DorilaDevOps?logoColor=red&logoSize=12px&labelColor=yellow&color=violet)
-</p>
 <hr>
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/DorilaDevOps/DorilaDevOps?logoColor=red&logoSize=12px&labelColor=yellow&color=violet">
-<hr>
-
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
-
+***My favorite*** search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy")
 
  <a href="https://linkedin.com/in/ujjwalsharma01">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" />
   </a>&nbsp;&nbsp;&nbsp;
-<hr>
+  
+<hr color="red">
 
 ## GitHub Stars  
 
@@ -75,19 +58,18 @@
     </a>
 </p>
 <hr>
-***it´s a maker tea*** 
+
+### it´s a maker tea
 <br>
  <p align="center">
-<img alt="GitHub Created At" src="https://img.shields.io/github/created-at/DorilaDevOps/DorilaDevOps"/>  
-
-<img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/DorilaDevOps/DorilaDevOps/master?style=plastic&labelColor=orange&color=blue" />
-
-<img src="https://img.shields.io/github/license/DorilaDevOps/DorilaDevOps.svg?style=plastic&labelColor=violet&color=lightblue"/>  
+  <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/DorilaDevOps/DorilaDevOps"/>  
+  <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/DorilaDevOps/DorilaDevOps/master?style=plastic&labelColor=orange&color=blue" />
+  <img src="https://img.shields.io/github/license/DorilaDevOps/DorilaDevOps.svg?style=plastic&labelColor=violet&color=lightblue"/>  
+  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/DorilaDevOps/DorilaDevOps?logoColor=red&logoSize=12px&labelColor=yellow&color=violet">
 </p>
+
 <br>
-
   ***<hr>***
-
   
 <table border="0" align="center">
 <tr border="0">
