@@ -27,14 +27,12 @@
 <a href="https://www.linkedin.com/in/andres-arias-dev/" target="_blank" title="linkedin">![image](https://github.com/DorilaDevOps/DorilaDevOps/assets/140438685/87bae488-68c3-4a07-ba74-2e175dc57ba5)</a>
 
 <a href="https://linktr.ee/and3dandelion" target="_blank" title="Linktree"><img src="https://icons8.com/icon/49422/oak-tree"  alt="tree" height="150" /></a>
-<a href="https://linktr.ee/and3dandelion" target="_blank" title="Linktree">![image](https://icons8.com/icon/49422/oak-tree)</a>
 
-<a href="https://www.esmuybellamybandera@gmail.com" target="_blank" title="Mail">![image](https://icons8.com/icon/44829/email)</a>
 <a href="https://www.esmuybellamybandera@gmail.com" target="_blank" title="Mail"><img src="https://icons8.com/icon/44829/email" alt="email" height="150" /></a>
 
 <a href="https://discord.com/channels/@me" target="_blank" title="Discord"><img src="https://icons8.com/icon/61604/discord" alt="disc"/></a>
 
-![My Mail](https://esmuybellamybandera@gmail.com "?font=Architects+Daughter&color=7AF79A&size=30
+https://esmuybellamybandera@gmail.com
   
 <hr>
 
