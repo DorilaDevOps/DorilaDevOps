@@ -29,6 +29,9 @@
 <a href="https://linktr.ee/and3dandelion" target="_blank" title="Lintree">![image](https://assets.production.linktr.ee/profiles/_next/static/logo-assets/favicon.ico){width=50 height=50}</a>
 <a href="https://linktr.ee/and3dandelion" target="_blank" title="Lintree">![image](https://assets.production.linktr.ee/profiles/_next/static/logo-assets/favicon.ico)</a>
 
+[Duck Duck Go](https://duckduckgo.com "
+[My Mail](https://esmuybellamybandera@gmail.com "?font=Architects+Daughter&color=7AF79A&size=30
+
 <a href="https://discord.com/channels/@me" target="_blank" title="Discord">![image](https://icons8.com/icon/61604/discord) </a>
 <a href="https://discord.com/channels/@me" target="_blank" title="Discord">![image](https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg) </a>
 <hr> 
@@ -39,13 +42,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+AvidCoder!;I'm+a+learning+developer...;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 <h3 align="center"> Here's some fun facts about me: </h3>
 
-<br />
-
 <hr>
-***My favorite*** search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy")
 
  <a href="https://linkedin.com/in/ujjwalsharma01">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="150" />
   </a>&nbsp;&nbsp;&nbsp;
   
 <hr color="red">
@@ -59,7 +59,7 @@
 </p>
 <hr>
 
-### it´s a maker tea
+***it´s a maker tea***
 <br>
  <p align="center">
   <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/DorilaDevOps/DorilaDevOps"/>  
@@ -68,8 +68,7 @@
   <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/DorilaDevOps/DorilaDevOps?logoColor=red&logoSize=12px&labelColor=yellow&color=violet">
 </p>
 
-<br>
-  ***<hr>***
+ <hr>
   
 <table border="0" align="center">
 <tr border="0">
