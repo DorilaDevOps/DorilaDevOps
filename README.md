@@ -3,7 +3,7 @@
 <hr>
 <img src="src/app/images/terry-unsplash.jpg" />      
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=480&height=80">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=480&height=80?font=Architects+Daughter&color=7AF79A&size=30">
 <hr>
 
 
@@ -26,23 +26,19 @@
 <a href="https://www.instagram.com/andres_y_paulina/" target="_blank" title="instagram">![image](https://github.com/DorilaDevOps/DorilaDevOps/assets/140438685/79e4b5d6-9efc-4ccf-9832-6cc9329527b3)</a>
 <a href="https://www.linkedin.com/in/andres-arias-dev/" target="_blank" title="linkedin">![image](https://github.com/DorilaDevOps/DorilaDevOps/assets/140438685/87bae488-68c3-4a07-ba74-2e175dc57ba5)</a>
 
-<a href="https://linktr.ee/and3dandelion" target="_blank" title="Lintree">![image&width=50 height=50](https://assets.production.linktr.ee/profiles/_next/static/logo-assets/favicon.ico)</a>
-<a href="https://linktr.ee/and3dandelion" target="_blank" title="Lintree">![image](https://assets.production.linktr.ee/profiles/_next/static/logo-assets/favicon.ico)</a>
+<a href="https://linktr.ee/and3dandelion" target="_blank" title="Linktree" color="red">![image](https://assets.production.linktr.ee/profiles/_next/static/logo-assets/favicon.ico)</a>
+<a href="https://linktr.ee/and3dandelion" target="_blank" title="Linktree">![image](https://icons8.com/icon/49422/oak-tree)</a>
 
-![Duck Duck Go](https://duckduckgo.com "
+<a href="https://www.esmuybellamybandera@gmail.com" target="_blank" title="Mail">![image](https://icons8.com/icon/44829/email)</a>
+
+<a href="https://discord.com/channels/@me" target="_blank" title="Discord">![image](https://icons8.com/icon/61604/discord)</a>
+
 ![My Mail](https://esmuybellamybandera@gmail.com "?font=Architects+Daughter&color=7AF79A&size=30
 
 <a href="https://discord.com/channels/@me" target="_blank" title="Discord">![image](https://icons8.com/icon/61604/discord) </a>
 <a href="https://discord.com/channels/@me" target="_blank" title="Discord">![image](https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg) </a>
 <hr> 
 ![image](https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg)
-
-<a target="_blank" href="https://icons8.com/icon/19294/source-code">Dev</a> icono de <a target="_blank" href="https://icons8.com">Icons8</a>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+AvidCoder!;I'm+a+learning+developer...;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
-<h3 align="center"> Here's some fun facts about me: </h3>
-
-<hr>
 
  <a href="https://linkedin.com/in/ujjwalsharma01">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="150" />
