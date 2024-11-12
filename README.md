@@ -50,7 +50,17 @@
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Shwetang550/count.svg" />
+  <br>
+  https://img.shields.io/github/watchers/DorilaDevOps/DorilaDevOps?logoColor=red&logoSize=12px&labelColor=yellow&color=violet
+  <br>
+  ![GitHub watchers](https://img.shields.io/github/watchers/DorilaDevOps/DorilaDevOps?logoColor=red&logoSize=12px&labelColor=yellow&color=violet)
 </p>
+<hr>
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/DorilaDevOps/DorilaDevOps?logoColor=red&logoSize=12px&labelColor=yellow&color=violet">
+<hr>
+
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+
 
  <a href="https://linkedin.com/in/ujjwalsharma01">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" />
