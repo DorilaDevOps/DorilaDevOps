@@ -26,7 +26,7 @@
 <a href="https://youtu.be/nD_TNB39G_4" target="_blank" title="YouTube">![image](https://github.com/DorilaDevOps/DorilaDevOps/assets/140438685/a653415f-8937-4db6-9481-520651a8c51b)</a>
 <a href="https://www.instagram.com/andres_y_paulina/" target="_blank" title="instagram">![image](https://github.com/DorilaDevOps/DorilaDevOps/assets/140438685/79e4b5d6-9efc-4ccf-9832-6cc9329527b3)</a>
 <a href="https://www.linkedin.com/in/andres-arias-dev/"  target="_blank" title="linkedin">![image](https://github.com/DorilaDevOps/DorilaDevOps/assets/140438685/87bae488-68c3-4a07-ba74-2e175dc57ba5)</a>
-<a href="https://linktr.ee/and3dandelion"  target="_blank" title="Lintree">![image](https://github.com/tandpfun/skill-icons/blob/main/icons/DevTo-Light.svg)</a>
+<a href="https://linktr.ee/and3dandelion"  target="_blank" title="Lintree">![image]([https://github.com/tandpfun/skill-icons/blob/main/icons/DevTo-Light.svg](https://assets.production.linktr.ee/profiles/_next/static/logo-assets/favicon.ico))</a>
 <a href="https://discord.com/channels/@me" target="_blank" title="Discord">![image](https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg) </a>
 
 <a href="asadodevelopers@gmail.com" target="_blank" title="mail">![image](https://github.com/DorilaDevOps/DorilaDevOps/assets/140438685/87bae488-68c3-4a07-ba74-2e175dc57ba5)</a>     
