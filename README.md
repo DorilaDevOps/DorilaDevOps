@@ -6,6 +6,31 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=480&height=80?font=Architects+Daughter&color=7AF79A&size=30">
 <hr>
 
+## 🤖 En qué estoy trabajando hoy
+
+*   **Sistemas de Agentes Autónomos:** Creación de flujos de trabajo dinámicos donde múltiples agentes cooperan utilizando frameworks modernos para automatizar tareas complejas.
+*   **DevOps impulsado por IA:** Optimización de pipelines de CI/CD (GitHub Actions, Netlify) integrando validaciones inteligentes y monitoreo automatizado.
+*   **Aplicaciones Modernas y Escalables:** Desarrollando plataformas comunitarias y herramientas robustas optimizadas para una experiencia de usuario fluida y alta disponibilidad.
+
+<hr>
+
+## 🛠️ Mi Stack Tecnológico & Skills
+
+### 🧠 Inteligencia Artificial y Agentes
+*   **Frameworks de Agentes:** CrewAI, LangChain, AutoGen.
+*   **Modelos y LLMs:** OpenAI (GPT-4o), Anthropic (Claude 3.5 Sonnet), Google (Gemini 1.5 Pro).
+*   **Técnicas de IA:** Arquitecturas RAG (Generación Aumentada por Recuperación), Function Calling (Llamada a funciones nativas), Prompt Engineering avanzado.
+
+### ⚙️ DevOps & Cloud (El Core)
+*   **CI/CD & Hosting:** Netlify, GitHub Actions, Vercel.
+*   **Contenedores y Entornos:** Docker, Entornos Locales Optimizados.
+*   **Estrategias:** Automatización de despliegues, optimización de assets, performance web y accesibilidad semántica.
+
+### 💻 Desarrollo Web
+*   **Frontend:** HTML5 Semántico, CSS3 Moderno (Responsive Design), JavaScript.
+*   **Backend:** Node.js, Python (FastAPI / automatizaciones).
+
+---
 
 ***My Favorite Tools as a Developer:***
     <p>
