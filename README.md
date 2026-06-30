@@ -30,9 +30,10 @@
 *   **Frontend:** HTML5 Semántico, CSS3 Moderno (Responsive Design), JavaScript.
 *   **Backend:** Node.js, Python (FastAPI / automatizaciones).
 
+<hr>
 
 ## My Favorite Tools as a Developer:
-    <p>
+
 [![My Skills](https://skillicons.dev/icons?i=angular,html,css,bootstrap,tailwind,materialui&theme=light)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,pnpm,apollo,graphql,nextjs&theme=light)](https://skillicons.dev)
@@ -40,8 +41,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,aws,firebase,heroku,github&theme=light)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=git,kali,netlify,tensorflow,ai,stackoverflow&theme=light)](https://skillicons.dev)
-    
-</p>
+  
 <hr>
 
  ***It occurs to me that you contact me:***
