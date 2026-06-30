@@ -116,6 +116,12 @@ https://esmuybellamybandera@gmail.com
     <a href="https://github.com/DorilaDevOps?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103?color=%234CC61E&label=FenixNoma"/></a>
     <a href="https://github.com/Naereen/badges"><img src="https://img.shields.io/badge/badges-awesome-green.svg"/></a>
   </p>
-  
+  ---
+  ## 📬 Conectemos
+
+*   **🌐 Sitio de Software:** [Kikiriya Software](https://kikiriya-software.netlify.app/)
+*   **💬 ¿Hablamos de IA o DevOps?** Estoy siempre abierto a colaborar en proyectos que desafíen los límites de la automatización y el desarrollo moderno.
+
+<p align="right"><i>Hecho con ⚡ y IA desde Montevideo, Uruguay 🇺🇾</i></p>
   <hr>
 
