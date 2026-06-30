@@ -44,22 +44,6 @@
   
 <hr>
 
- ***It occurs to me that you contact me:***
- <br>
-<a href="https://youtu.be/nD_TNB39G_4" target="_blank" title="YouTube">![image](https://github.com/DorilaDevOps/DorilaDevOps/assets/140438685/a653415f-8937-4db6-9481-520651a8c51b)</a>
-<a href="https://www.instagram.com/andres_y_paulina/" target="_blank" title="instagram">![image](https://github.com/DorilaDevOps/DorilaDevOps/assets/140438685/79e4b5d6-9efc-4ccf-9832-6cc9329527b3)</a>
-<a href="https://www.linkedin.com/in/andres-arias-dev/" target="_blank" title="linkedin">![image](https://github.com/DorilaDevOps/DorilaDevOps/assets/140438685/87bae488-68c3-4a07-ba74-2e175dc57ba5)</a>
-
-<a href="https://linktr.ee/and3dandelion" target="_blank" title="Linktree"><img src="https://icons8.com/icon/49422/oak-tree"  alt="tree" height="150" /></a>
-
-<a href="https://www.esmuybellamybandera@gmail.com" target="_blank" title="Mail"><img src="https://icons8.com/icon/44829/email" alt="email" height="150" /></a>
-
-<a href="https://discord.com/channels/@me" target="_blank" title="Discord"><img src="https://icons8.com/icon/61604/discord" alt="disc"/></a>
-
-https://esmuybellamybandera@gmail.com
-  
-<hr>
-
 ## GitHub Stars  
 
 <p align="center">
@@ -121,7 +105,21 @@ https://esmuybellamybandera@gmail.com
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorilaDevOps&layout=compact&theme=tokyonight" alt="Lenguajes más usados de DorilaDevOps" width="48%" />
 </p>
 
-  ## 📬 Conectemos
+<hr>
+
+  ## 📬  It occurs to me that you contact me:
+ <br>
+*   **🌐 <a href="https://youtu.be/nD_TNB39G_4" target="_blank" title="YouTube">![image](https://github.com/DorilaDevOps/DorilaDevOps/assets/140438685/a653415f-8937-4db6-9481-520651a8c51b)</a>
+*   **🌐 <a href="https://www.instagram.com/andres_y_paulina/" target="_blank" title="instagram">![image](https://github.com/DorilaDevOps/DorilaDevOps/assets/140438685/79e4b5d6-9efc-4ccf-9832-6cc9329527b3)</a>
+*   **🌐 <a href="https://www.linkedin.com/in/andres-arias-dev/" target="_blank" title="linkedin">![image](https://github.com/DorilaDevOps/DorilaDevOps/assets/140438685/87bae488-68c3-4a07-ba74-2e175dc57ba5)</a>
+
+*   **🌐 <a href="https://linktr.ee/and3dandelion" target="_blank" title="Linktree"><img src="https://icons8.com/icon/49422/oak-tree"  alt="tree" height="150" /></a>
+
+*   **🌐 <a href="https://www.esmuybellamybandera@gmail.com" target="_blank" title="Mail"><img src="https://icons8.com/icon/44829/email" alt="email" height="150" /></a>
+
+*   **🌐 <a href="https://discord.com/channels/@me" target="_blank" title="Discord"><img src="https://icons8.com/icon/61604/discord" alt="disc"/></a>
+
+*   **🌐 https://esmuybellamybandera@gmail.com
 
 *   **🌐 Sitio de Software:** [Kikiriya Software](https://kikiriya-software.netlify.app/)
 *   **💬 ¿Hablamos de IA o DevOps?** Estoy siempre abierto a colaborar en proyectos que desafíen los límites de la automatización y el desarrollo moderno.
