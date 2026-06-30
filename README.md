@@ -30,7 +30,6 @@
 *   **Frontend:** HTML5 Semántico, CSS3 Moderno (Responsive Design), JavaScript.
 *   **Backend:** Node.js, Python (FastAPI / automatizaciones).
 
----
 
 ***My Favorite Tools as a Developer:***
     <p>
@@ -115,8 +114,13 @@ https://esmuybellamybandera@gmail.com
     <a href="https://github.com/DorilaDevOps/DorilaDevOps"><img src="https://img.shields.io/github/followers/kaizoku-oh?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
     <a href="https://github.com/DorilaDevOps?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103?color=%234CC61E&label=FenixNoma"/></a>
     <a href="https://github.com/Naereen/badges"><img src="https://img.shields.io/badge/badges-awesome-green.svg"/></a>
-  </p>
-  ---
+  </p>## 📊 Mis Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DorilaDevOps&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de DorilaDevOps" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorilaDevOps&layout=compact&theme=tokyonight" alt="Lenguajes más usados de DorilaDevOps" width="48%" />
+</p>
+
   ## 📬 Conectemos
 
 *   **🌐 Sitio de Software:** [Kikiriya Software](https://kikiriya-software.netlify.app/)
