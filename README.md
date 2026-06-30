@@ -31,7 +31,7 @@
 *   **Backend:** Node.js, Python (FastAPI / automatizaciones).
 
 
-***My Favorite Tools as a Developer:***
+## My Favorite Tools as a Developer:
     <p>
 [![My Skills](https://skillicons.dev/icons?i=angular,html,css,bootstrap,tailwind,materialui&theme=light)](https://skillicons.dev)
 
